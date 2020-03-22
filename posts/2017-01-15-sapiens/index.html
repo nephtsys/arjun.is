@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why is everyone reading Sapiens?</title>
+    <meta name="Description" content="I am writing about my experiences as a naval navel-gazer.">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Arjun Attam">
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-76439340-1"></script>
+    <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-76439340-1');</script>
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">Arjun Attam</a></h1>
+      <ul class="nav">
+        <li class="nav-item"><a href="/">Home</a></li>
+        <li class="nav-item"><a href="/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/about/">About Me</a></li>
+      </ul>
+    </header>
+
+    <main class="tmpl-post">
+      <div class="warning">
+        <ol>
+          <li>Edit the <code>_data/metadata.json</code> with your blog’s information.</li>
+          <li>(Optional) Edit <code>.eleventy.js</code> with your <a href="https://www.11ty.dev/docs/config/">configuration preferences</a>.</li>
+          <li>Delete this message from <code>_includes/layouts/base.njk</code>.</li>
+        </ol>
+        <p><em>This is an <a href="https://www.11ty.io/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
+      </div>
+
+      <h1>Why is everyone reading Sapiens?</h1>
+
+<p>With my twitter feed talking about books this December, I was struck by how popular <a href="https://www.goodreads.com/book/show/23692271-sapiens">Sapiens: A Brief History of Humankind</a> was. These weren't people who exchange book recommendations with each other, so there had to be an external cause to this. And Sapiens is not a recent popular release like Michael Lewis' <a href="https://www.goodreads.com/book/show/30334134-the-undoing-project">The Undoing Project</a> that I would expect to be universally popular at launch.</p>
+<p>So I spent some time trying to figure out what happened. I'm left with some understanding of how book sales - unlike movies - are driven mostly by big names. My initial hypothesis was that the book probably featured in Bill Gates' <a href="https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2016">yearly book list</a>, but that was easy to (in)validate. (Gates did review the book on his blog last year, but it doesn't look like that contributed to the book's success in December.) My best guess to why the book took off is: Obama.</p>
+<p><img src="/img/sapiens-harari-trends.png" alt="Google trends for &quot;sapiens harari&quot; from January 1, 2014"></p>
+<p>For my conclusions I used a few data sources: <strong>Google trends</strong>, which represents a general awareness/curiosity about the book, <strong>Goodreads reviews</strong>, which represent the book's popularity in a more relevant audience, and a timeline of relevant events.</p>
+<p><img src="/img/sapiens-goodreads.png" alt="Goodreads reviews for Sapiens from January 1, 2014"></p>
+<h2 id="relevant-events">Relevant events <a class="direct-link" href="#relevant-events">#</a></h2>
+<ul>
+<li>2011: Sapiens launched in Hebrew</li>
+<li>August 2014: Yuval Harari's Coursera mooc on the history of mankind starts</li>
+<li>Mid-2014: English translation of Sapiens released, with normal set of book reviews</li>
+<li>June 2015: Yuval Harari gives a <a href="http://www.ted.com/talks/yuval_noah_harari_what_explains_the_rise_of_humans">TED talk</a></li>
+<li>May 17, 2016: Bill Gates <a href="https://www.gatesnotes.com/Books/Sapiens-A-Brief-History-of-Humankind">reviews</a> Sapiens</li>
+<li>July 18, 2016: I added Sapiens to my to-read bookshelf on Goodreads - turns out a friend had finished reading it on the same day (who might have read Gates?)</li>
+<li>September 4, 2016: Obama recommends Sapiens on CNN</li>
+<li>September 8, 2016: Harari's new book <a href="https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow">Homo Deus</a> is released</li>
+</ul>
+<p>The last two events coincide with the peak in the Google trends graph, and it would be safe to say that Obama on CNN would have more weightage than a new book (considering how insignificant book launches seem to be on these scales). The Goodreads reviews peak trails the Google trends peak by a few months, which I believe can be explained by the time it would take for people to getting to read it + the holiday season for relaxed reading.</p>
+<h2 id="appendix">Appendix <a class="direct-link" href="#appendix">#</a></h2>
+<p>Book popularity APIs are hard. I thought the <a href="https://www.goodreads.com/api">Goodreads API</a> doc would give me the popularity data I wanted, but there is no API for that objective. What I ended up doing was scraping reviews from their reviews widget, and <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">Beautiful Soup</a> made it easy.</p>
+<pre class="language-python"><code class="language-python"><span class="token keyword">def</span> <span class="token function">get_raw_dates_from_url</span><span class="token punctuation">(</span>url<span class="token punctuation">)</span><span class="token punctuation">:</span><br>    r <span class="token operator">=</span> urllib<span class="token punctuation">.</span>urlopen<span class="token punctuation">(</span>url<span class="token punctuation">)</span><span class="token punctuation">.</span>read<span class="token punctuation">(</span><span class="token punctuation">)</span><br>    soup <span class="token operator">=</span> BeautifulSoup<span class="token punctuation">(</span>r<span class="token punctuation">)</span><br>    raw_dates <span class="token operator">=</span> soup<span class="token punctuation">.</span>find_all<span class="token punctuation">(</span><span class="token string">'span'</span><span class="token punctuation">,</span> class_<span class="token operator">=</span><span class="token string">'gr_review_date'</span><span class="token punctuation">)</span><br>    <span class="token keyword">return</span> raw_dates</code></pre>
+
+
+<p><a href="/">← Home</a></p>
+
+    </main>
+
+    <footer>This is the footer.</footer>
+
+    
+  </body>
+</html>

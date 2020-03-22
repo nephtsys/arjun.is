@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Arjun Attam</title>
+	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
+	
+	<link href="https://arjun.is/feed/feed.xml" rel="self"/>
+	<link href="https://arjun.is/"/>
+	<updated>2019-07-16T00:00:00-00:00</updated>
+	<id>https://arjun.is/</id>
+	<author>
+		<name>Arjun Attam</name>
+		<email>arjun@attam.in</email>
+	</author>
+	
+	<entry>
+		<title>Publishing and an open format</title>
+		<link href="https://arjun.is/posts/2016-04-14-rss/"/>
+		<updated>2016-04-14T00:00:00-00:00</updated>
+		<id>https://arjun.is/posts/2016-04-14-rss/</id>
+		<content type="html">&lt;p&gt;A Slack discussion on whether we should shift our &lt;a href=&quot;https://blog.hypertrack.io/&quot;&gt;company blog&lt;/a&gt; to Medium made me miss the days when RSS/Atom were popular and Google Reader flourished. Reader shut down in 2013, and RSS has since been extinct. What struck me is how incentives in publishing have evolved since, and how RSS could fit right in.&lt;/p&gt;
+&lt;p&gt;(I&#39;m using RSS as the representative open format for timely distribution of content, in a standard platform-agnostic format.)&lt;/p&gt;
+&lt;p&gt;The incentives of readers have changed little over time, and by design, RSS aligns with them. With a standard format, RSS reduces context switching for readers, thereby enabling more content consumption in less time.&lt;/p&gt;
+&lt;h3 id=&quot;publisher-incentives%3A-circa-2013&quot;&gt;Publisher incentives: circa 2013 &lt;a class=&quot;direct-link&quot; href=&quot;#publisher-incentives%3A-circa-2013&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The prevalent business model for publishing was advertising. The incentive for (most) publishers was to drive up ad views and hence, website page views. As RSS decoupled content consumption from website page views, it was at odds with how publishing worked. While most websites had an rss.xml link (and still do), adoption of RSS by mainstream media existed in name only. RSS was used as a teaser for main website, with incomplete content, which misses the point of reducing context switching.&lt;/p&gt;
+&lt;h3 id=&quot;publisher-incentives%3A-circa-2016-and-beyond%3F&quot;&gt;Publisher incentives: circa 2016 and beyond? &lt;a class=&quot;direct-link&quot; href=&quot;#publisher-incentives%3A-circa-2016-and-beyond%3F&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;45% of &lt;a href=&quot;https://twitter.com/BenBajarin/status/720456358244564992&quot;&gt;millennials use ad blockers&lt;/a&gt; on their phones. Advertising revenue has moved from publishers to Facebook and Google, who have more users, and are a lot better at targetting them. From &lt;a href=&quot;http://www.nytimes.com/2016/04/18/business/media-websites-battle-falteringad-revenue-and-traffic.html&quot;&gt;NYT&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the first quarter of 2016, 85 cents of every new dollar spent in online advertising will go to Google or Facebook, said Brian Nowak, a Morgan Stanley analyst.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Media organizations are forced to relook their business models—which can be broadly generalized as[^1]:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Subscriptions from a loyal reader base (eg, The Economist or The Information)&lt;/li&gt;
+&lt;li&gt;Marketing for other businesses, through sponsored content (Buzzfeed) or affiliate links (The Wirecutter)&lt;/li&gt;
+&lt;li&gt;Marketing for monetizable products of the same business, events (Shekhar Gupta&#39;s The Print), podcasts (Bill Simmons&#39; The Ringer) or non-media products (Stripe&#39;s blog that markets Stripe).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These business models value the content instead of how/where it is presented. The business model has been decoupled from page views. Increasing a reader base, irrespective of where the reader is, aligns with the new models.&lt;/p&gt;
+&lt;p&gt;These readers reside on Facebook and similar products, which have increasingly gained market power at the expense of media companies. Facebook alone controls 40 percent of web traffic to media websites, as stated in the same &lt;a href=&quot;http://www.nytimes.com/2016/04/18/business/media-websites-battle-falteringad-revenue-and-traffic.html&quot;&gt;NYT article&lt;/a&gt;. The likes of Facebook Instant Articles, and Apple News exist in the industry, deriving their market power through their existing user bases. Powerful and closed platforms bring problems of coercion and control.&lt;/p&gt;
+&lt;p&gt;That is where RSS, and products like Google Reader that make RSS user friendly, possibly fit it. Full adoption of an open format by content publishers will open opportunities for new reading products, that do not require a Facebook account or an Apple device. Which in turn also create new business models, that make use of content bundling. While competing with a Facebook for reader eyeballs is difficult—with the right tools and infrastructure, we have seen magic happen before on the Internet.&lt;/p&gt;
+&lt;p&gt;[^1]: I&#39;m skeptical about pay-per-read models (micropayments). There&#39;s little to show they work.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>High Output Management</title>
+		<link href="https://arjun.is/posts/2016-12-06-high-output-management/"/>
+		<updated>2016-12-06T00:00:00-00:00</updated>
+		<id>https://arjun.is/posts/2016-12-06-high-output-management/</id>
+		<content type="html">&lt;p&gt;Sometime in 2015 I realized how incomplete my understanding of management was. In my head management was a job to be done, but there was no such thing as good/bad management. The output of an organization was the sum of outputs of the workers, and changing the manager wouldn&#39;t have any effect. This changed in my first year post college, when I worked with bad and good managers.&lt;/p&gt;
+&lt;p&gt;The difference was evident to me when keeping all other variables constant, my individual output increased under the good manager vs the bad one. This pushed me to understand how to be a good manager, and what could be quantified as managerial output. Read in that light, Andy Grove&#39;s High Output Management ended up introducing me to managerial output, and I&#39;m left with some takeaways to share.&lt;/p&gt;
+&lt;h2 id=&quot;new-vocabulary&quot;&gt;New vocabulary &lt;a class=&quot;direct-link&quot; href=&quot;#new-vocabulary&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Management theory feels like stating the obvious, especially when you&#39;ve worked professionally. But I think there is value to be created by stating the obvious, and converting experiences into words. Vocabulary makes it easier to pass concepts around, build complex concepts on top of existing ones. As complex entities become primitives and more usable, life progresses.&lt;/p&gt;
+&lt;p&gt;Even before I read HOM, I could describe each of the terms below through a vague combination of recollection and intuition. But by putting them into clear words, I can save the time I would have spent thinking about them, and apply them. (The list is by no means exhaustive; only those terms that left an impression on me.)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;management leverage&lt;/strong&gt;: measure of output generated by any managerial activity. Hence, managerial output is sum of (leverage&lt;sub&gt;i&lt;/sub&gt; * activity&lt;sub&gt;i&lt;/sub&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;know-how managers&lt;/strong&gt;: knowledge specialists, with high potential to influence neighboring people and organizations. Management output isn&#39;t limited to supervision (handed over by authority), it can also come from mere influence (gained by knowledge).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;management-by-objectives&lt;/strong&gt;: management by defining objective and breaking it down into key results, that can be tracked and used to make adjustments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;task-relevant maturity&lt;/strong&gt;: variable that defines the most suitable management style. High TRM (not the same as general competence) of subordinate implies minimal involvement management, low TRM implies structured management that answers &amp;quot;what&amp;quot;, &amp;quot;when&amp;quot;, &amp;quot;how&amp;quot;.[^1]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;control modes&lt;/strong&gt;: means to control behavior in a work environment. The two orthogonal variables that determine choice of mode are individual motivation (self-interest vs group interest) and CUA (complexity, uncertainty, ambiguity) involved, leading to a &lt;a href=&quot;https://arjun.is/img/control-modes.jpg&quot;&gt;2x2&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;questions-of-organization&quot;&gt;Questions of organization &lt;a class=&quot;direct-link&quot; href=&quot;#questions-of-organization&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Why do all tech companies have a sense of egalitarianism, with informal attire and open offices? Grove provides an interesting explanation. Since tech is a knowledge based industry, business decisions are based on the latest know-how, which is what workers are best at. For know-how insights to climb up the hierarchy and be a part of decision making, the environment needs to be non-hierarchical.&lt;/p&gt;
+&lt;p&gt;I can think of other such questions on organization that find answers in business fundamentals. For example, why is sales typically known for high ratio of variable pay? The answer probably lies in the ease of estimating impact of work. As &lt;a href=&quot;https://en.wikipedia.org/wiki/Theory_of_the_firm&quot;&gt;firm theory&lt;/a&gt; suggests, the most rational wage for a worker is the marginal revenue product of labour. Hence, a business would like to compensate a worker only for the incremental value created, no more no less.&lt;/p&gt;
+&lt;p&gt;In sales, the impact of the salesperson&#39;s work is easy to measure, as converted deals add up instantly to the company&#39;s revenue. As a counter example, an R&amp;amp;D scientist has a lower ratio of variable pay because the impact of work is harder to measure. Even when measured, there is a long time gap between when the work was done and when it actually accrues as revenue.&lt;/p&gt;
+&lt;p&gt;[^1]: Important word of caution on this from Grove: there is no judgement of value or worthiness when it comes to TRM and relevant management style. &amp;quot;We are after what is most &lt;em&gt;effective&lt;/em&gt;.&amp;quot;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Why is everyone reading Sapiens?</title>
+		<link href="https://arjun.is/posts/2017-01-15-sapiens/"/>
+		<updated>2017-01-15T00:00:00-00:00</updated>
+		<id>https://arjun.is/posts/2017-01-15-sapiens/</id>
+		<content type="html">&lt;p&gt;With my twitter feed talking about books this December, I was struck by how popular &lt;a href=&quot;https://www.goodreads.com/book/show/23692271-sapiens&quot;&gt;Sapiens: A Brief History of Humankind&lt;/a&gt; was. These weren&#39;t people who exchange book recommendations with each other, so there had to be an external cause to this. And Sapiens is not a recent popular release like Michael Lewis&#39; &lt;a href=&quot;https://www.goodreads.com/book/show/30334134-the-undoing-project&quot;&gt;The Undoing Project&lt;/a&gt; that I would expect to be universally popular at launch.&lt;/p&gt;
+&lt;p&gt;So I spent some time trying to figure out what happened. I&#39;m left with some understanding of how book sales - unlike movies - are driven mostly by big names. My initial hypothesis was that the book probably featured in Bill Gates&#39; &lt;a href=&quot;https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2016&quot;&gt;yearly book list&lt;/a&gt;, but that was easy to (in)validate. (Gates did review the book on his blog last year, but it doesn&#39;t look like that contributed to the book&#39;s success in December.) My best guess to why the book took off is: Obama.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://arjun.is/img/sapiens-harari-trends.png&quot; alt=&quot;Google trends for &amp;quot;sapiens harari&amp;quot; from January 1, 2014&quot;&gt;&lt;/p&gt;
+&lt;p&gt;For my conclusions I used a few data sources: &lt;strong&gt;Google trends&lt;/strong&gt;, which represents a general awareness/curiosity about the book, &lt;strong&gt;Goodreads reviews&lt;/strong&gt;, which represent the book&#39;s popularity in a more relevant audience, and a timeline of relevant events.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://arjun.is/img/sapiens-goodreads.png&quot; alt=&quot;Goodreads reviews for Sapiens from January 1, 2014&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;relevant-events&quot;&gt;Relevant events &lt;a class=&quot;direct-link&quot; href=&quot;#relevant-events&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2011: Sapiens launched in Hebrew&lt;/li&gt;
+&lt;li&gt;August 2014: Yuval Harari&#39;s Coursera mooc on the history of mankind starts&lt;/li&gt;
+&lt;li&gt;Mid-2014: English translation of Sapiens released, with normal set of book reviews&lt;/li&gt;
+&lt;li&gt;June 2015: Yuval Harari gives a &lt;a href=&quot;http://www.ted.com/talks/yuval_noah_harari_what_explains_the_rise_of_humans&quot;&gt;TED talk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;May 17, 2016: Bill Gates &lt;a href=&quot;https://www.gatesnotes.com/Books/Sapiens-A-Brief-History-of-Humankind&quot;&gt;reviews&lt;/a&gt; Sapiens&lt;/li&gt;
+&lt;li&gt;July 18, 2016: I added Sapiens to my to-read bookshelf on Goodreads - turns out a friend had finished reading it on the same day (who might have read Gates?)&lt;/li&gt;
+&lt;li&gt;September 4, 2016: Obama recommends Sapiens on CNN&lt;/li&gt;
+&lt;li&gt;September 8, 2016: Harari&#39;s new book &lt;a href=&quot;https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow&quot;&gt;Homo Deus&lt;/a&gt; is released&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The last two events coincide with the peak in the Google trends graph, and it would be safe to say that Obama on CNN would have more weightage than a new book (considering how insignificant book launches seem to be on these scales). The Goodreads reviews peak trails the Google trends peak by a few months, which I believe can be explained by the time it would take for people to getting to read it + the holiday season for relaxed reading.&lt;/p&gt;
+&lt;h2 id=&quot;appendix&quot;&gt;Appendix &lt;a class=&quot;direct-link&quot; href=&quot;#appendix&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Book popularity APIs are hard. I thought the &lt;a href=&quot;https://www.goodreads.com/api&quot;&gt;Goodreads API&lt;/a&gt; doc would give me the popularity data I wanted, but there is no API for that objective. What I ended up doing was scraping reviews from their reviews widget, and &lt;a href=&quot;https://www.crummy.com/software/BeautifulSoup/bs4/doc/&quot;&gt;Beautiful Soup&lt;/a&gt; made it easy.&lt;/p&gt;
+&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;get_raw_dates_from_url&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;url&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;br&gt;    r &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; urllib&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;urlopen&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;url&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;read&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;br&gt;    soup &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; BeautifulSoup&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;r&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;br&gt;    raw_dates &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; soup&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;find_all&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&#39;span&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; class_&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&#39;gr_review_date&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;br&gt;    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; raw_dates&lt;/code&gt;&lt;/pre&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Masters of Doom</title>
+		<link href="https://arjun.is/posts/2017-09-30-doom/"/>
+		<updated>2017-09-30T00:00:00-00:00</updated>
+		<id>https://arjun.is/posts/2017-09-30-doom/</id>
+		<content type="html">&lt;p&gt;David Kushner&#39;s Masters of Doom brought back memories of hours in high school spent gaming. This was mid 2000s, when Delhi school computers could only properly handle the graphic engines released in 1999: Quake 3, Unreal Tournament, and not to forget, Counter Strike 1.6.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://arjun.is/img/doom.jpg&quot; alt=&quot;Masters of Doom&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I first ran into id Software in the mid-90s, when my US-based uncle brought a copy of Doom on one of his annual visits to India. I don&#39;t remember what I made of it, but I definitely didn&#39;t make much of it. Perhaps I was too glued to playing Electronic Arts&#39; &lt;a href=&quot;https://www.myabandonware.com/game/cricket-97-2bo&quot;&gt;Cricket 97&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&#39;m indebted to id for Quake 3 Arena, a game that I can attribute many of my high school friendships to. I vividly remember one of the maps in the game: &lt;a href=&quot;http://quake.wikia.com/wiki/Q3DM17:_The_Longest_Yard&quot;&gt;The Longest Yard&lt;/a&gt;, which was completely open, making it incredibly difficult to hide, and had gravity defying bouncing pads and teleportation. The resulting combination was crazy fast gameplay.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZuuyoKqby2U&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;In my opinion Q3A&#39;s success (especially in India) can be attributed to the 60 MB file, available as a free download on the id Software website. This approach came from the business model of shareware, one of the main themes of the book. Shareware made sharing software on disks free and easy. Software with limited functionality, or a trial period, was made available for free, and the full version was paid. For games this meant some maps/levels were available for free, and free did not mean crippled: you could play them as much as you would want.&lt;/p&gt;
+&lt;p&gt;Shareware as a term is more-or-less dead, but the concept is virtually (pun unintended) everywhere: in fact, the text editor I&#39;m typing this on is shareware. While the internet upended the need for distribution through disks, all paid software is distributed as trial for free. We now call it freemium, or in-app purchases.&lt;/p&gt;
+&lt;p&gt;The book raises questions on the impact of violence in video games. The &lt;a href=&quot;https://en.wikipedia.org/wiki/Columbine_High_School_massacre&quot;&gt;Columbine High School&lt;/a&gt; masacre led to lawsuits against the video games industry. Whether violent video games were the cause of violence in American society, or were they an effect of it is questionable. In my circle of friends in Delhi we treated it as any competitive sport that brought us a lot closer.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>War and privacy</title>
+		<link href="https://arjun.is/posts/2017-12-24-privacy/"/>
+		<updated>2017-12-24T00:00:00-00:00</updated>
+		<id>https://arjun.is/posts/2017-12-24-privacy/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Cryptonomicon%281stEd%29.jpg/200px-Cryptonomicon%281stEd%29.jpg&quot; alt=&quot;Cryptonomicon&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I&#39;ve wondered why Western attitude to privacy and surveillance is at odds with the Indian, and perhaps more generally, the oriental sentiment. There is a probably a plethora of big and small reasons, but I haven&#39;t heard a pithy, believable, and interesting solution—like the one you would expect to find in an Yuval Harari novel. I have a theory now, thanks to Cryptonomicon.&lt;/p&gt;
+&lt;p&gt;Without questioning why the Indian mind does not respect privacy and abhor surveillance, the idea is to explain why the western mind does, and vehemently so. This is while I&#39;m sitting thousands of miles away, so I am expecting (hoping) to be corrected. My hypothesis is the Second World War. When a pivotal historical event depended heavily on intercepting and decrypting private messages, I think it is safe to assume that it left a cultural mark on the society.&lt;/p&gt;
+&lt;p&gt;Politically, the war&#39;s legacy included setting up the &lt;a href=&quot;https://en.wikipedia.org/wiki/National_Security_Agency&quot;&gt;NSA&lt;/a&gt; in 1952, which is described by a fictional IBM exec/army officer in the book as a post-war Bletchley Park operating at scale. The legacy also included classifying exported &lt;a href=&quot;https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States&quot;&gt;cryptography as weapons&lt;/a&gt;, because of the negative impact that could have on public safety. While I don&#39;t have examples to substantiate the war&#39;s cultural legacy, there is a Google Ngram chart.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://arjun.is/img/privacy-ngram-1.png&quot; alt=&quot;Ngram&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Couple of things that struck me:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The rise of terms privacy and surveillance happened post the 1960s (the slope changes suddenly around 1965)&lt;/li&gt;
+&lt;li&gt;The rise of the Internet did not really change the slope of the terms&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Unlike what I would have incorrectly assumed from popular media, the rise of these terms pre-dates the Internet. The rise immediately follows the Second World War. One can argue that the slope changes 20 years after the war ends, which to me actually seems like a fair amount of time for society to start thinking/talking. Or perhaps it&#39;s a decade late and my theory is incorrect.&lt;/p&gt;
+&lt;p&gt;Theory inspiration aside, Cryptonomicon captures why I like Neal Stephenson: storylines that interlock into each other, and mix of fictional and historical characters. If only his works weren&#39;t this dense and 1000s of pages long, or I had as much time as I do these days, I would have actually finished the Baroque Cycle books. Here&#39;s hoping I will eventually finish them, before Stephenson releases a book about the blockchain.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Kahneman and caching</title>
+		<link href="https://arjun.is/posts/2018-02-03-kahneman/"/>
+		<updated>2018-02-03T00:00:00-00:00</updated>
+		<id>https://arjun.is/posts/2018-02-03-kahneman/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Thinking%2C_Fast_and_Slow.jpg/220px-Thinking%2C_Fast_and_Slow.jpg&quot; alt=&quot;The book in question&quot;&gt;&lt;/p&gt;
+&lt;p&gt;My latest book obsession is Daniel Kahneman&#39;s Thinking, Fast and Slow. I was thinking about judgement and intuition when I picked it up, and I was looking for a framework to navigate my thinking. The book details out &lt;a href=&quot;https://en.wikipedia.org/wiki/Prospect_theory&quot;&gt;prospect theory&lt;/a&gt;, which is Kahneman and Amos Tversky&#39;s seminal work on decision making. Prospect theory is an alternative to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Expected_utility_hypothesis&quot;&gt;expected utility theory&lt;/a&gt;, basis for the rational decision-making economic agent.&lt;/p&gt;
+&lt;p&gt;The basis of prospect theory lies in cognitive biases that are detailed out in the book. Kahneman proposes there are two modes of thinking: System 1, which is fast and instinctive, and System 2, which is more thoughtful and analytical. Biases happen inside System 1, and a lazy System 2 fails to correct them.&lt;/p&gt;
+&lt;p&gt;At the risk of making a poor analogy that weighs some elements incorrectly over the others: Kahneman&#39;s dual system proposition reminded me of caches. Cache invalidation is known to be a &lt;a href=&quot;https://stackoverflow.com/questions/1188587/cache-invalidation-is-there-a-general-solution&quot;&gt;hard problem&lt;/a&gt;, and it turns out, that&#39;s not restricted to computer science. The evolution of System 1 makes invalidation of its bias harder.&lt;/p&gt;
+&lt;p&gt;Perhaps the hardest thing here is that System 1 is great at building coherence. Given input data points, System 1 constructs a convincing story, with causation and without doubt, of how these data points were always meant to be together. The coherence and the ease of recall correlate with the degree of confidence. It is possible to confidently unware of what I&#39;m missing, and also revel in the confidence. This is what makes understanding both sides of an argument critical. And paradoxically, this is also where (blind?) entrepreneurial optimism comes from, or how great companies are found.&lt;/p&gt;
+&lt;p&gt;The worst part of knowing this: I also know that I will not remember any of this when I need it the most. But I will try to remember that it is easier for observers to spot my biases, and I will be better off by listening to them. What could be better: observers who have read the book. And so for my own selfish benefit, Thinking, Fast and Slow is highly recommended.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Idealism, anarchism and decentralization</title>
+		<link href="https://arjun.is/posts/2018-04-21-dispossessed/"/>
+		<updated>2018-04-12T00:00:00-00:00</updated>
+		<id>https://arjun.is/posts/2018-04-21-dispossessed/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://arjun.is/img/dispossessed.jpg&quot; alt=&quot;The Dispossessed by Ursula Le Guin&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Anarres is a planet in Ursula Le Guin&#39;s The Dispossessed — a world built on anarchism: the rejection of authority and hierarchies. 150 years in, it resembles little like what was imagined. While newer generations can recite the founding principles, bureaucracy has taken over for all practical purposes. Says Bedap, a doubter in the book:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Here we have government by the majority. But it is government! The social conscience isn&#39;t a living thing any more, but a machine, a powermachine, controlled by bureaucrats!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Bureaucrats run the PDC, or Production and Distribution Coordination, that coordinates how individuals participate in economic work. Bedap again:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;And it’s not just PDC. It’s anywhere on Anarres. Learning centers, institutes, mines, mills, fisheries, canneries, agricultural development and research stations, factories, one-product communities — anywhere that function demands expertise and a stable institution. But that stability gives scope to the authoritarian impulse. In the early years of the Settlement we were aware of that, on the lookout for it. People discriminated very carefully then between administering things and governing people. They did it so well that we forgot that the will to dominance is as central in human beings as the impulse to mutual aid is, and has to be trained in each individual, in each new generation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I would extend Bedap&#39;s claim: in addition to the will to dominate, the need for security and stability is central in human beings. If you read the book, you will find how a society built on rejecting authority ends up defending it. Institutions of authority grew and stabilized.&lt;/p&gt;
+&lt;p&gt;My novice understanding around the rise of blockchains and decentralization faces a similar dilemma. (What else is science fiction but a way to tweak constraints and reimagine what the world would look like?) While I understand how decentralization is better (recommended: &lt;a href=&quot;https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274&quot;&gt;Vitalik Buterin on decentralization&lt;/a&gt;), I don&#39;t know if centralization is the norm because:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;decentralization was impossible, or&lt;/li&gt;
+&lt;li&gt;decentralization was not required (or is at odds with the human existence)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are two ways to look at this: in aggregate or for a use-case. Let&#39;s start with an easy use-case for now: moving capital offshore to tax havens. This is a use-case that clearly needs secrecy and privacy, and centralization is incompatible with those goals. Decentralization was impossible, and that changes with the blockchain: see &lt;a href=&quot;https://getmonero.org/&quot;&gt;Monero&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The question becomes complicated at the aggregate level, and I&#39;m not sure of the answer. The answer might lie in understanding why the antithesis of blockchains (traditional corporations) exist.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://arjun.is/img/decentralization-grid.jpeg&quot; alt=&quot;Decentralization, from Vitalik Buterin&#39;s piece.&quot;&gt;&lt;/p&gt;
+&lt;p&gt;From &lt;a href=&quot;https://en.wikipedia.org/wiki/Theory_of_the_firm&quot;&gt;this wiki page&lt;/a&gt;: firms exist as an alternative to the market-price mechanism when it is more efficient to produce in a non-market environment. If you look at the employer-employee relationship: this means frequently transacting in the labour market requires costly coordination, and a firm subverts that by establishing a long-term contract between employer-employee. So the firm exists because it is the cheapest way to get long-term coordination. But then the cost of coordination is a function of the market though, and the blockchain changes it.&lt;/p&gt;
+&lt;p&gt;And we have seen long-term cooperation outside the firm — developers coordinate and build long term projects in the open source world. However, it is not clear to me whether the open source model is a counter-example to firms, considering how the most important open source project (Linux) is overlooked by the &lt;a href=&quot;https://en.wikipedia.org/wiki/Linux_Foundation&quot;&gt;Linux Foundation&lt;/a&gt;, which itself consists of 800+ corporate members. As it stands right now, open source is complementary to the tranditional corporation.&lt;/p&gt;
+&lt;p&gt;Life is so entrenched in centralization, and it seems difficult to know which is correct: is the world centralized by choice or necessity? There&#39;s obviously a lot to unravel here, and there&#39;s hopefully more I will have to share.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Lucked into Microsoft</title>
+		<link href="https://arjun.is/posts/2019-04-28-microsoft/"/>
+		<updated>2019-04-28T00:00:00-00:00</updated>
+		<id>https://arjun.is/posts/2019-04-28-microsoft/</id>
+		<content type="html">&lt;p&gt;My 15 year old Linux fanboy self would have never believed it if he was told that one day he would work at Microsoft. Turns out that is exactly what happened. Here&#39;s how.&lt;/p&gt;
+&lt;h2 id=&quot;code-reviews-and-rubberduck&quot;&gt;Code reviews and Rubberduck &lt;a class=&quot;direct-link&quot; href=&quot;#code-reviews-and-rubberduck&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I remember a team discussion at &lt;a href=&quot;http://hypertrack.com/&quot;&gt;HyperTrack&lt;/a&gt; on how to improve team culture and morale, and someone brought up doing better code reviews. It seemed like an odd idea at first, but it made sense and stuck with me. A healthy code review culture helps teams communicate, transfer knowledge, and every developer grows with every review.&lt;/p&gt;
+&lt;p&gt;At the same time, code reviews are a lot of work, and the tools don&#39;t make it any easier. I had time on my hand after leaving HyperTrack, and so I started building &lt;a href=&quot;http://rubberduck.io/&quot;&gt;Rubberduck&lt;/a&gt; to fix this. Rubberduck brings editor-level navigation features to pull requests in the browser. With an easy way to find usages and peek definitions, it became faster to understand code changes.&lt;/p&gt;
+&lt;p&gt;Rubberduck grew well (&lt;a href=&quot;https://www.producthunt.com/posts/rubberduck&quot;&gt;trended on Product Hunt&lt;/a&gt; etc.), and it was fulfilling to see the early set of developers use it day in, day out. Scaling usage beyond the initial users became challenging, because:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Resistance to private code access: Only a few teams were comfortable with a small unknown startup touching their source code; &amp;quot;trust&amp;quot; did not scale.&lt;/li&gt;
+&lt;li&gt;Non-trivial infra: Beneath the surface, Rubberduck was like operating multiple IDE instances in the cloud. The service would break all the time, leaving new users with the impression that it never worked.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Rubberduck had quickly gone beyond the prototyping phase, and a team of one was not going to cut it anymore.&lt;/p&gt;
+&lt;h2 id=&quot;efficient-collaboration-and-team-chat&quot;&gt;Efficient collaboration and Team Chat &lt;a class=&quot;direct-link&quot; href=&quot;#efficient-collaboration-and-team-chat&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;When Rubberduck was being used by a handful of teams, I noticed that these developers were constantly switching between their text editor (often VS Code), their code host (GitHub), and their team chat (Slack). Code was edited on VS Code, reviewed on GitHub, and talked about on Slack. Anecdotally, ~65% of pull requests had comments that led to chat threads (&amp;quot;let&#39;s move this to Slack&amp;quot;). My learnings were:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Boundaries between the editor/source control host/team chat needed to be questioned: each boundary is a context switch for developers, and things fall through cracks.&lt;/li&gt;
+&lt;li&gt;Developers collaborate in multiple ways, and code reviews are just one such way. Collaboration cannot be separated from developer communication.&lt;/li&gt;
+&lt;li&gt;Chat made it easier to collaborate in real-time, which in turn was driven by the need to ship things faster, and work with teammates who are working from home/remotely.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Extending these learnings led me to think that text editors had fallen behind with how teams work. Traditionally, editors have maximized the productivity of a solo developer writing code: with features like auto-completion, navigation, search. But shipping software requires more than just a solo developer writing code: software is built by teams that write code, review code, ask questions, help each other. What would an editor look like if it was built to maximize productivity of a team?&lt;/p&gt;
+&lt;p&gt;In an attempt to reduce context switches, I built the &lt;a href=&quot;https://github.com/karigari/vscode-chat&quot;&gt;Team Chat extension for VS Code&lt;/a&gt;, which brings your Slack team to your editor (&lt;a href=&quot;https://github.com/karigari/vscode-chat/blob/master/VISION.md&quot;&gt;read the product vision document&lt;/a&gt;). Team Chat grew faster: it took just a week to get where Rubberduck was in 2 months.&lt;/p&gt;
+&lt;h2 id=&quot;next-steps&quot;&gt;Next steps &lt;a class=&quot;direct-link&quot; href=&quot;#next-steps&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;It was amazing to see Rubberduck and Team Chat get user love and grow, and to find a vision statement that inspired me. I knew one potential route to take: fundraise and build a team, but for some reason it didn&#39;t feel right. I don&#39;t know which one of these it was: not having a co-founder, being burnt out from my last job in a venture backed startup, or just worrying that I had spent 3.5+ years in early stage with little to show for it.&lt;/p&gt;
+&lt;p&gt;Fortunately for me, my experiments caught the attention of my future manager at Microsoft (I&#39;ve bookmarked the &lt;a href=&quot;https://github.com/MicrosoftDocs/live-share/issues/69#issuecomment-400335051&quot;&gt;issue comment on GitHub&lt;/a&gt; that triggered it). Over the following conversations I realized how aligned we were over the vision, and I found a team that wanted to build the best developer tools in the world. It felt like I had found my crowd.&lt;/p&gt;
+&lt;h2 id=&quot;microsoft&quot;&gt;Microsoft &lt;a class=&quot;direct-link&quot; href=&quot;#microsoft&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Two months ago, I joined Microsoft as a product manager on developer tools and services. There&#39;s a lot I&#39;m ramping up on, not excluding the product manager role, and working in a large company. I&#39;m constantly impressed by the people around me, and the agility with which we operate. And I&#39;m incredibly excited to share what we have in store for you—give us &lt;a href=&quot;https://www.microsoft.com/en-us/build&quot;&gt;a week&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Lessons in podcast distribution</title>
+		<link href="https://arjun.is/posts/2019-07-16-podcasting-distribution/"/>
+		<updated>2019-07-16T00:00:00-00:00</updated>
+		<id>https://arjun.is/posts/2019-07-16-podcasting-distribution/</id>
+		<content type="html">&lt;p&gt;A few months ago I got together with my old friend Alokik to launch a podcast: &lt;a href=&quot;https://startupgreenroom.com/&quot;&gt;the Startup Green Room&lt;/a&gt; is a place to celebrate functional expertise from operators in the Indian startup ecosystem. We have close to &lt;a href=&quot;https://startupgreenroom.com/episodes&quot;&gt;10 episodes&lt;/a&gt; now, and I&#39;m keen to share our learnings so far.&lt;/p&gt;
+&lt;p&gt;Anecdotally, I&#39;ve seen podcast listening grow fast over the last year: podcast related chatter on Twitter has increased, friends ask me for and share recommendations. At the same time, India-centric content isn&#39;t common. We are betting that the podcast tailwinds are strong enough for us to focus on content, and let the growth in podcast listening provide for distribution.&lt;/p&gt;
+&lt;p&gt;Or to put it differently, we assume that there is a critical and growing mass of podcast listeners in India, who have figured out how to fit podcasts into their lives (generally, one of commute or gym). Many of these listeners work in, or are interested in Indian startups, and we want to create relevant content for them.&lt;/p&gt;
+&lt;p&gt;My early learnings on distribution seem to suggest this assumption might be more right among iOS than Android users.&lt;/p&gt;
+&lt;h2 id=&quot;user-funnel&quot;&gt;User funnel &lt;a class=&quot;direct-link&quot; href=&quot;#user-funnel&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Let&#39;s start with a simplified user funnel, starting with how most users discover the podcast.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;User discovers the podcast (episode) on a social media post&lt;/li&gt;
+&lt;li&gt;User clicks on the link in the post, and lands on our website&lt;/li&gt;
+&lt;li&gt;User subscribes to the podcast in their app of choice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If our assumption is valid, podcast listeners would have a healthy conversion from website visitor to subscriber. This conversion rate is critical to validating our assumption.&lt;/p&gt;
+&lt;h2 id=&quot;website-data&quot;&gt;Website data &lt;a class=&quot;direct-link&quot; href=&quot;#website-data&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Let&#39;s look Google Analytics numbers for the website, bifurcated by OS platform.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://arjun.is/img/podcast-distribution/ga.png&quot; alt=&quot;Website visitors, between May 1 and July 14, 2019&quot;&gt;&lt;br&gt;
+&lt;em&gt;Website visitors, between May 1 and July 14, 2019&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A few things to note here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Android is the dominant platform&lt;/strong&gt;, which is expected. Among visitors from mobile, proportion of Android is 60%. India is a &lt;a href=&quot;http://gs.statcounter.com/os-market-share/mobile/india&quot;&gt;90% Android market&lt;/a&gt; in mobile, and in our target segment (which is more affluent) proportion of Android is expected to be lower.&lt;/li&gt;
+&lt;li&gt;Macintosh beating iOS is not a surprise, since Macbooks (which are often paid for by companies) are easier to find than iPhones.&lt;/li&gt;
+&lt;li&gt;Mobile visitors are about 56%, desktop is 44%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;podcast-downloads-data&quot;&gt;Podcast downloads data &lt;a class=&quot;direct-link&quot; href=&quot;#podcast-downloads-data&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Limitations of podcast analytics deserve another blog post. For this analysis, we are going to use our downloads data. Given an IP address and user agent for every download, it is possible to estimate the location and the app used. We use &lt;a href=&quot;https://transistor.fm/&quot;&gt;Transistor&lt;/a&gt; for hosting the podcast, and these charts are from their analytics page.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://arjun.is/img/podcast-distribution/downloads-all.png&quot; alt=&quot;Episode downloads&quot;&gt;&lt;br&gt;
+&lt;em&gt;Episode downloads, till July 14, 2019&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;From the distribution of popular players, we can see that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;49% downloads come from the browser (mobile and desktop), rest from apps.&lt;/li&gt;
+&lt;li&gt;Among browser downloads, 53% are from mobile – which mirrors the website visitors distribution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Half of our downloads coming from the browser is very surprising to me. I&#39;m personally never in a position to play audio in the browser. When I typically discover podcasts, I open them in an app instead, so that I can listen to them when I listen to my podcasts (commute/gym, which is different from when I&#39;m actively browsing).&lt;/p&gt;
+&lt;p&gt;Given this bias, I&#39;m tempted to interpret browser downloads as trial runs: users only listen to a few seconds (therefore counting as a download). Sidenote: this is where depth of podcast analytics around &lt;em&gt;listens vs downloads&lt;/em&gt; would help. Bias aside, I do know of at least 1 user who used a mobile browser to listen to our entire playlist – and therefore, it can be argued that browser playback is a critical feature.&lt;/p&gt;
+&lt;p&gt;In either case, browser listeners are not regular subscribers. At best, they consumed a free trial, and will not be notified when a new episode comes out. We need to look at app downloads in more detail.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://arjun.is/img/podcast-distribution/downloads-apps.png&quot; alt=&quot;Episode downloads - apps only&quot;&gt;&lt;br&gt;
+&lt;em&gt;Episode downloads, apps only, till July 14, 2019&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Among app downloads:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Apple Podcasts dominate app downloads, at 39%. In fact, &lt;strong&gt;iOS dominates app downloads&lt;/strong&gt;, with Breaker (10%) and Overcast (4%) being the other two popular iOS-only apps. I&#39;m leaving out iTunes (8%), which I&#39;m guessing is coming from Windows/Mac users.&lt;/li&gt;
+&lt;li&gt;Castbox (10%), Spotify (10%), Pocket Casts (4%) are cross-platform. Google Podcasts (8%) is the only Android only app.&lt;/li&gt;
+&lt;li&gt;If we assume cross-platform apps to be Android users, and focus on mobile listeners only, we have 37% downloads from Android, and 63% from iOS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;inferences&quot;&gt;Inferences &lt;a class=&quot;direct-link&quot; href=&quot;#inferences&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;While mobile website visitors from were tilted towards Android: 60% vs 40% for iOS, app downloads are more on iOS: 63% vs 37% for Android. Clearly, the website visitor to podcast subscriber conversion works different for iOS and Android.&lt;/p&gt;
+&lt;p&gt;The iOS ecosystem is dominated by the default app, which sets the benchmark for other podcast apps on iOS. From user conversations, I know that podcast listeners on iOS start with the default app, and then graduate to something like Breaker/Overcast for specific features. By extension, it can be said that Breaker/Overcast users are power-users, and Apple Podcasts users are not.&lt;/p&gt;
+&lt;p&gt;Android is more complicated. Fragmentation is in the very nature of Android, and the podcast apps ecosystem seems to be no different. If I break down the visitors to subscribers conversion into interested and capable users:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;User is interested to convert: I don&#39;t have a reason to believe this would be different for iOS and Android&lt;/li&gt;
+&lt;li&gt;User knows how to convert: there &lt;em&gt;is&lt;/em&gt; reason to believe this is different for iOS and Android&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If we want to improve conversion rates for Android, we know what to do: help interested Android visitors convert to app subscribers.&lt;/p&gt;
+&lt;h2 id=&quot;action-items&quot;&gt;Action items &lt;a class=&quot;direct-link&quot; href=&quot;#action-items&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Helping Android visitors become subscribers means recommending an app that will get the job done. Among the popular players right now, we have Castbox (10%), Spotify (10%), and Google Podcasts (8%). I&#39;m ignoring Pocket Casts (4%) since it&#39;s paid. As much as I like Spotify, I cannot recommend it for podcasts because it is missing one critical feature: notifications on new episodes. Castbox seems to be a decent app, but Google Podcasts sounds like a better candidate for a &amp;quot;default&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Google Podcasts has been around for a year now, and it seems worth investigating why it&#39;s not doing as well as Castbox/Spotify. From &lt;a href=&quot;https://www.amplifimedia.com/blogstein/2018/12/5/why-is-google-podcasts-app-failing-so-hard&quot;&gt;this analysis&lt;/a&gt; (emphasis mine):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Resler: While Google’s Podcasts app is &lt;strong&gt;technically pre-installed on all Android phones&lt;/strong&gt; – it’s a “contextual app” that automatically opens when you click on certain links -- &lt;strong&gt;nobody knows that it’s there because there is no homescreen icon&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Resler: Awareness about the Google Podcasts app’s existence is low. I don’t think Google needs to engage in a big publicity campaign around their Podcasts app. I think they just need to get the icon on the homescreen.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Umm, what? I wish I had an Android phone to try it out, and thankfully someone made a video of &lt;a href=&quot;https://www.youtube.com/watch?v=0dUVeQmCRaA&quot;&gt;how it works&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It&#39;s unclear to me why the app lacks a homescreen icon, but being pre-installed makes it an easy choice for us to recommend to our visitors. If you visit &lt;a href=&quot;https://startupgreenroom.com/&quot;&gt;our homepage&lt;/a&gt; now, it recommends subscribing via Google Podcasts – and would deep-link into the app if you are on Android. To complete the recommendation, we also recommend Apple Podcasts, since Breaker/Overcast users are power-users, and would know what to do anyway.&lt;/p&gt;
+&lt;p&gt;I&#39;m bullish on the Indian podcasting ecosystem, and eager to share more such learnings on launching a podcast in India. If you&#39;re in the same boat and have ideas on Android conversion rates, hit me up on &lt;a href=&quot;https://twitter.com/arjunattam&quot;&gt;Twitter&lt;/a&gt;. I&#39;m eager to collaborate with other creators in the space, and learn together.&lt;/p&gt;
+&lt;p&gt;And do check out &lt;a href=&quot;https://startupgreenroom.com/&quot;&gt;the Startup Green Room&lt;/a&gt; podcast!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Lessons in podcast distribution</title>
+		<link href="https://arjun.is/posts/podcasting/"/>
+		<updated>2019-07-16T00:00:00-00:00</updated>
+		<id>https://arjun.is/posts/podcasting/</id>
+		<content type="html">&lt;p&gt;A few months ago I got together with my old friend Alokik to launch a podcast: &lt;a href=&quot;https://startupgreenroom.com/&quot;&gt;the Startup Green Room&lt;/a&gt; is a place to celebrate functional expertise from operators in the Indian startup ecosystem. We have close to &lt;a href=&quot;https://startupgreenroom.com/episodes&quot;&gt;10 episodes&lt;/a&gt; now, and I&#39;m keen to share our learnings so far.&lt;/p&gt;
+&lt;p&gt;Anecdotally, I&#39;ve seen podcast listening grow fast over the last year: podcast related chatter on Twitter has increased, friends ask me for and share recommendations. At the same time, India-centric content isn&#39;t common. We are betting that the podcast tailwinds are strong enough for us to focus on content, and let the growth in podcast listening provide for distribution.&lt;/p&gt;
+&lt;p&gt;Or to put it differently, we assume that there is a critical and growing mass of podcast listeners in India, who have figured out how to fit podcasts into their lives (generally, one of commute or gym). Many of these listeners work in, or are interested in Indian startups, and we want to create relevant content for them.&lt;/p&gt;
+&lt;p&gt;My early learnings on distribution seem to suggest this assumption might be more right among iOS than Android users.&lt;/p&gt;
+&lt;h2 id=&quot;user-funnel&quot;&gt;User funnel &lt;a class=&quot;direct-link&quot; href=&quot;#user-funnel&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Let&#39;s start with a simplified user funnel, starting with how most users discover the podcast.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;User discovers the podcast (episode) on a social media post&lt;/li&gt;
+&lt;li&gt;User clicks on the link in the post, and lands on our website&lt;/li&gt;
+&lt;li&gt;User subscribes to the podcast in their app of choice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If our assumption is valid, podcast listeners would have a healthy conversion from website visitor to subscriber. This conversion rate is critical to validating our assumption.&lt;/p&gt;
+&lt;h2 id=&quot;website-data&quot;&gt;Website data &lt;a class=&quot;direct-link&quot; href=&quot;#website-data&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Let&#39;s look Google Analytics numbers for the website, bifurcated by OS platform.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://arjun.is/img/ga.png&quot; alt=&quot;Website visitors, between May 1 and July 14, 2019&quot;&gt;&lt;br&gt;
+&lt;em&gt;Website visitors, between May 1 and July 14, 2019&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A few things to note here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Android is the dominant platform&lt;/strong&gt;, which is expected. Among visitors from mobile, proportion of Android is 60%. India is a &lt;a href=&quot;http://gs.statcounter.com/os-market-share/mobile/india&quot;&gt;90% Android market&lt;/a&gt; in mobile, and in our target segment (which is more affluent) proportion of Android is expected to be lower.&lt;/li&gt;
+&lt;li&gt;Macintosh beating iOS is not a surprise, since Macbooks (which are often paid for by companies) are easier to find than iPhones.&lt;/li&gt;
+&lt;li&gt;Mobile visitors are about 56%, desktop is 44%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;podcast-downloads-data&quot;&gt;Podcast downloads data &lt;a class=&quot;direct-link&quot; href=&quot;#podcast-downloads-data&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Limitations of podcast analytics deserve another blog post. For this analysis, we are going to use our downloads data. Given an IP address and user agent for every download, it is possible to estimate the location and the app used. We use &lt;a href=&quot;https://transistor.fm/&quot;&gt;Transistor&lt;/a&gt; for hosting the podcast, and these charts are from their analytics page.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://arjun.is/img/podcast-distribution/downloads-all.png&quot; alt=&quot;Episode downloads&quot;&gt;&lt;br&gt;
+&lt;em&gt;Episode downloads, till July 14, 2019&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;From the distribution of popular players, we can see that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;49% downloads come from the browser (mobile and desktop), rest from apps.&lt;/li&gt;
+&lt;li&gt;Among browser downloads, 53% are from mobile – which mirrors the website visitors distribution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Half of our downloads coming from the browser is very surprising to me. I&#39;m personally never in a position to play audio in the browser. When I typically discover podcasts, I open them in an app instead, so that I can listen to them when I listen to my podcasts (commute/gym, which is different from when I&#39;m actively browsing).&lt;/p&gt;
+&lt;p&gt;Given this bias, I&#39;m tempted to interpret browser downloads as trial runs: users only listen to a few seconds (therefore counting as a download). Sidenote: this is where depth of podcast analytics around &lt;em&gt;listens vs downloads&lt;/em&gt; would help. Bias aside, I do know of at least 1 user who used a mobile browser to listen to our entire playlist – and therefore, it can be argued that browser playback is a critical feature.&lt;/p&gt;
+&lt;p&gt;In either case, browser listeners are not regular subscribers. At best, they consumed a free trial, and will not be notified when a new episode comes out. We need to look at app downloads in more detail.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://arjun.is/img/podcast-distribution/downloads-apps.png&quot; alt=&quot;Episode downloads - apps only&quot;&gt;&lt;br&gt;
+&lt;em&gt;Episode downloads, apps only, till July 14, 2019&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Among app downloads:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Apple Podcasts dominate app downloads, at 39%. In fact, &lt;strong&gt;iOS dominates app downloads&lt;/strong&gt;, with Breaker (10%) and Overcast (4%) being the other two popular iOS-only apps. I&#39;m leaving out iTunes (8%), which I&#39;m guessing is coming from Windows/Mac users.&lt;/li&gt;
+&lt;li&gt;Castbox (10%), Spotify (10%), Pocket Casts (4%) are cross-platform. Google Podcasts (8%) is the only Android only app.&lt;/li&gt;
+&lt;li&gt;If we assume cross-platform apps to be Android users, and focus on mobile listeners only, we have 37% downloads from Android, and 63% from iOS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;inferences&quot;&gt;Inferences &lt;a class=&quot;direct-link&quot; href=&quot;#inferences&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;While mobile website visitors from were tilted towards Android: 60% vs 40% for iOS, app downloads are more on iOS: 63% vs 37% for Android. Clearly, the website visitor to podcast subscriber conversion works different for iOS and Android.&lt;/p&gt;
+&lt;p&gt;The iOS ecosystem is dominated by the default app, which sets the benchmark for other podcast apps on iOS. From user conversations, I know that podcast listeners on iOS start with the default app, and then graduate to something like Breaker/Overcast for specific features. By extension, it can be said that Breaker/Overcast users are power-users, and Apple Podcasts users are not.&lt;/p&gt;
+&lt;p&gt;Android is more complicated. Fragmentation is in the very nature of Android, and the podcast apps ecosystem seems to be no different. If I break down the visitors to subscribers conversion into interested and capable users:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;User is interested to convert: I don&#39;t have a reason to believe this would be different for iOS and Android&lt;/li&gt;
+&lt;li&gt;User knows how to convert: there &lt;em&gt;is&lt;/em&gt; reason to believe this is different for iOS and Android&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If we want to improve conversion rates for Android, we know what to do: help interested Android visitors convert to app subscribers.&lt;/p&gt;
+&lt;h2 id=&quot;action-items&quot;&gt;Action items &lt;a class=&quot;direct-link&quot; href=&quot;#action-items&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Helping Android visitors become subscribers means recommending an app that will get the job done. Among the popular players right now, we have Castbox (10%), Spotify (10%), and Google Podcasts (8%). I&#39;m ignoring Pocket Casts (4%) since it&#39;s paid. As much as I like Spotify, I cannot recommend it for podcasts because it is missing one critical feature: notifications on new episodes. Castbox seems to be a decent app, but Google Podcasts sounds like a better candidate for a &amp;quot;default&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Google Podcasts has been around for a year now, and it seems worth investigating why it&#39;s not doing as well as Castbox/Spotify. From &lt;a href=&quot;https://www.amplifimedia.com/blogstein/2018/12/5/why-is-google-podcasts-app-failing-so-hard&quot;&gt;this analysis&lt;/a&gt; (emphasis mine):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Resler: While Google’s Podcasts app is &lt;strong&gt;technically pre-installed on all Android phones&lt;/strong&gt; – it’s a “contextual app” that automatically opens when you click on certain links -- &lt;strong&gt;nobody knows that it’s there because there is no homescreen icon&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Resler: Awareness about the Google Podcasts app’s existence is low. I don’t think Google needs to engage in a big publicity campaign around their Podcasts app. I think they just need to get the icon on the homescreen.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Umm, what? I wish I had an Android phone to try it out, and thankfully someone made a video of &lt;a href=&quot;https://www.youtube.com/watch?v=0dUVeQmCRaA&quot;&gt;how it works&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It&#39;s unclear to me why the app lacks a homescreen icon, but being pre-installed makes it an easy choice for us to recommend to our visitors. If you visit &lt;a href=&quot;https://startupgreenroom.com/&quot;&gt;our homepage&lt;/a&gt; now, it recommends subscribing via Google Podcasts – and would deep-link into the app if you are on Android. To complete the recommendation, we also recommend Apple Podcasts, since Breaker/Overcast users are power-users, and would know what to do anyway.&lt;/p&gt;
+&lt;p&gt;I&#39;m bullish on the Indian podcasting ecosystem, and eager to share more such learnings on launching a podcast in India. If you&#39;re in the same boat and have ideas on Android conversion rates, hit me up on &lt;a href=&quot;https://twitter.com/arjunattam&quot;&gt;Twitter&lt;/a&gt;. I&#39;m eager to collaborate with other creators in the space, and learn together.&lt;/p&gt;
+&lt;p&gt;And do check out &lt;a href=&quot;https://startupgreenroom.com/&quot;&gt;the Startup Green Room&lt;/a&gt; podcast!&lt;/p&gt;
+</content>
+	</entry>
+</feed>
