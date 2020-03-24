@@ -72,11 +72,6 @@
   </url>
   
   <url>
-    <loc>https://arjun.is/tags/podcasting/</loc>
-    <lastmod>2020-03-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://arjun.is/tags/publishing/</loc>
     <lastmod>2020-03-24</lastmod>
   </url>
@@ -93,6 +88,11 @@
   
   <url>
     <loc>https://arjun.is/tags/blockchain/</loc>
+    <lastmod>2020-03-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arjun.is/tags/podcasting/</loc>
     <lastmod>2020-03-24</lastmod>
   </url>
 </urlset>
