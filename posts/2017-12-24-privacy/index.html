@@ -5,35 +5,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>War and privacy</title>
     <meta name="Description" content="I am writing about my experiences as a naval navel-gazer.">
-    <link rel="stylesheet" href="/css/index.css">
+    
+    <link rel="stylesheet" href="/css/index2.css">
     <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Arjun Attam">
 
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-76439340-1"></script>
     <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-76439340-1');</script>
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lora|Inter&display=swap" rel="stylesheet">
   </head>
   <body>
-    <header>
-      <h1 class="home"><a href="/">Arjun Attam</a></h1>
-      <ul class="nav">
-        <li class="nav-item"><a href="/">Home</a></li>
-        <li class="nav-item"><a href="/posts/">Archive</a></li>
-        <li class="nav-item"><a href="/about/">About Me</a></li>
-      </ul>
-    </header>
 
-    <main class="tmpl-post">
-      <div class="warning">
-        <ol>
-          <li>Edit the <code>_data/metadata.json</code> with your blog’s information.</li>
-          <li>(Optional) Edit <code>.eleventy.js</code> with your <a href="https://www.11ty.dev/docs/config/">configuration preferences</a>.</li>
-          <li>Delete this message from <code>_includes/layouts/base.njk</code>.</li>
-        </ol>
-        <p><em>This is an <a href="https://www.11ty.io/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
-      </div>
+    <div class="page-bg">
+      <div class="page">
 
-      <h1>War and privacy</h1>
+        <header>
+          <div class="spacer">&nbsp;</div>
+          <h1 class="home"><a href="/">Arjun Attam</a></h1>
+        </header>
+
+        <main class="tmpl-post">
+          <aside id="sidebar">
+            <nav>
+              <ul>
+                <li class="nav-item"><a href="/">Home</a></li>
+                <li class="nav-item"><a href="/posts/">Archive</a></li>
+                <li class="nav-item"><a href="/about/">About Me</a></li>
+              </ul>
+            </nav>
+            <h3>I am writing about my experiences as a naval navel-gazer.</h3>
+          </aside>
+
+          <article class="content">
+            <h1>War and privacy</h1>
 
 <p><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Cryptonomicon%281stEd%29.jpg/200px-Cryptonomicon%281stEd%29.jpg" alt="Cryptonomicon"></p>
 <p>I've wondered why Western attitude to privacy and surveillance is at odds with the Indian, and perhaps more generally, the oriental sentiment. There is a probably a plethora of big and small reasons, but I haven't heard a pithy, believable, and interesting solution—like the one you would expect to find in an Yuval Harari novel. I have a theory now, thanks to Cryptonomicon.</p>
@@ -51,9 +58,17 @@
 
 <p><a href="/">← Home</a></p>
 
-    </main>
+          </article>
+        </main>
+      </div>
+    </div>
 
-    <footer>This is the footer.</footer>
+    <footer>
+      <div class="footer">
+        <div class="spacer">&nbsp;</div>
+        <span>This is the footer.</span>
+      </div>
+    </footer>
 
     
   </body>
