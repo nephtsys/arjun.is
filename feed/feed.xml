@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>Publishing and an open format</title>
-		<link href="https://arjun.is/posts/2016-04-14-rss/"/>
+		<link href="https://arjun.is/posts/2016/rss/"/>
 		<updated>2016-04-14T00:00:00-00:00</updated>
-		<id>https://arjun.is/posts/2016-04-14-rss/</id>
+		<id>https://arjun.is/posts/2016/rss/</id>
 		<content type="html">&lt;p&gt;A Slack discussion on whether we should shift our &lt;a href=&quot;https://blog.hypertrack.io/&quot;&gt;company blog&lt;/a&gt; to Medium made me miss the days when RSS/Atom were popular and Google Reader flourished. Reader shut down in 2013, and RSS has since been extinct. What struck me is how incentives in publishing have evolved since, and how RSS could fit right in.&lt;/p&gt;
 &lt;p&gt;(I&#39;m using RSS as the representative open format for timely distribution of content, in a standard platform-agnostic format.)&lt;/p&gt;
 &lt;p&gt;The incentives of readers have changed little over time, and by design, RSS aligns with them. With a standard format, RSS reduces context switching for readers, thereby enabling more content consumption in less time.&lt;/p&gt;
@@ -42,9 +42,9 @@
 	
 	<entry>
 		<title>High Output Management</title>
-		<link href="https://arjun.is/posts/2016-12-06-high-output-management/"/>
+		<link href="https://arjun.is/posts/2016/high-output-management/"/>
 		<updated>2016-12-06T00:00:00-00:00</updated>
-		<id>https://arjun.is/posts/2016-12-06-high-output-management/</id>
+		<id>https://arjun.is/posts/2016/high-output-management/</id>
 		<content type="html">&lt;p&gt;Sometime in 2015 I realized how incomplete my understanding of management was. In my head management was a job to be done, but there was no such thing as good/bad management. The output of an organization was the sum of outputs of the workers, and changing the manager wouldn&#39;t have any effect. This changed in my first year post college, when I worked with bad and good managers.&lt;/p&gt;
 &lt;p&gt;The difference was evident to me when keeping all other variables constant, my individual output increased under the good manager vs the bad one. This pushed me to understand how to be a good manager, and what could be quantified as managerial output. Read in that light, Andy Grove&#39;s High Output Management ended up introducing me to managerial output, and I&#39;m left with some takeaways to share.&lt;/p&gt;
 &lt;h2 id=&quot;new-vocabulary&quot;&gt;New vocabulary &lt;a class=&quot;direct-link&quot; href=&quot;#new-vocabulary&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
@@ -67,9 +67,9 @@
 	
 	<entry>
 		<title>Why is everyone reading Sapiens?</title>
-		<link href="https://arjun.is/posts/2017-01-15-sapiens/"/>
+		<link href="https://arjun.is/posts/2017/sapiens/"/>
 		<updated>2017-01-15T00:00:00-00:00</updated>
-		<id>https://arjun.is/posts/2017-01-15-sapiens/</id>
+		<id>https://arjun.is/posts/2017/sapiens/</id>
 		<content type="html">&lt;p&gt;With my twitter feed talking about books this December, I was struck by how popular &lt;a href=&quot;https://www.goodreads.com/book/show/23692271-sapiens&quot;&gt;Sapiens: A Brief History of Humankind&lt;/a&gt; was. These weren&#39;t people who exchange book recommendations with each other, so there had to be an external cause to this. And Sapiens is not a recent popular release like Michael Lewis&#39; &lt;a href=&quot;https://www.goodreads.com/book/show/30334134-the-undoing-project&quot;&gt;The Undoing Project&lt;/a&gt; that I would expect to be universally popular at launch.&lt;/p&gt;
 &lt;p&gt;So I spent some time trying to figure out what happened. I&#39;m left with some understanding of how book sales - unlike movies - are driven mostly by big names. My initial hypothesis was that the book probably featured in Bill Gates&#39; &lt;a href=&quot;https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2016&quot;&gt;yearly book list&lt;/a&gt;, but that was easy to (in)validate. (Gates did review the book on his blog last year, but it doesn&#39;t look like that contributed to the book&#39;s success in December.) My best guess to why the book took off is: Obama.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://arjun.is/img/sapiens-harari-trends.png&quot; alt=&quot;Google trends for &amp;quot;sapiens harari&amp;quot; from January 1, 2014&quot;&gt;&lt;/p&gt;
@@ -95,9 +95,9 @@
 	
 	<entry>
 		<title>Masters of Doom</title>
-		<link href="https://arjun.is/posts/2017-09-30-doom/"/>
+		<link href="https://arjun.is/posts/2017/doom/"/>
 		<updated>2017-09-30T00:00:00-00:00</updated>
-		<id>https://arjun.is/posts/2017-09-30-doom/</id>
+		<id>https://arjun.is/posts/2017/doom/</id>
 		<content type="html">&lt;p&gt;David Kushner&#39;s Masters of Doom brought back memories of hours in high school spent gaming. This was mid 2000s, when Delhi school computers could only properly handle the graphic engines released in 1999: Quake 3, Unreal Tournament, and not to forget, Counter Strike 1.6.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://arjun.is/img/doom.jpg&quot; alt=&quot;Masters of Doom&quot;&gt;&lt;/p&gt;
 &lt;p&gt;I first ran into id Software in the mid-90s, when my US-based uncle brought a copy of Doom on one of his annual visits to India. I don&#39;t remember what I made of it, but I definitely didn&#39;t make much of it. Perhaps I was too glued to playing Electronic Arts&#39; &lt;a href=&quot;https://www.myabandonware.com/game/cricket-97-2bo&quot;&gt;Cricket 97&lt;/a&gt;.&lt;/p&gt;
@@ -111,9 +111,9 @@
 	
 	<entry>
 		<title>War and privacy</title>
-		<link href="https://arjun.is/posts/2017-12-24-privacy/"/>
+		<link href="https://arjun.is/posts/2017/privacy/"/>
 		<updated>2017-12-24T00:00:00-00:00</updated>
-		<id>https://arjun.is/posts/2017-12-24-privacy/</id>
+		<id>https://arjun.is/posts/2017/privacy/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Cryptonomicon%281stEd%29.jpg/200px-Cryptonomicon%281stEd%29.jpg&quot; alt=&quot;Cryptonomicon&quot;&gt;&lt;/p&gt;
 &lt;p&gt;I&#39;ve wondered why Western attitude to privacy and surveillance is at odds with the Indian, and perhaps more generally, the oriental sentiment. There is a probably a plethora of big and small reasons, but I haven&#39;t heard a pithy, believable, and interesting solution—like the one you would expect to find in an Yuval Harari novel. I have a theory now, thanks to Cryptonomicon.&lt;/p&gt;
 &lt;p&gt;Without questioning why the Indian mind does not respect privacy and abhor surveillance, the idea is to explain why the western mind does, and vehemently so. This is while I&#39;m sitting thousands of miles away, so I am expecting (hoping) to be corrected. My hypothesis is the Second World War. When a pivotal historical event depended heavily on intercepting and decrypting private messages, I think it is safe to assume that it left a cultural mark on the society.&lt;/p&gt;
@@ -131,9 +131,9 @@
 	
 	<entry>
 		<title>Kahneman and caching</title>
-		<link href="https://arjun.is/posts/2018-02-03-kahneman/"/>
+		<link href="https://arjun.is/posts/2018/kahneman/"/>
 		<updated>2018-02-03T00:00:00-00:00</updated>
-		<id>https://arjun.is/posts/2018-02-03-kahneman/</id>
+		<id>https://arjun.is/posts/2018/kahneman/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Thinking%2C_Fast_and_Slow.jpg/220px-Thinking%2C_Fast_and_Slow.jpg&quot; alt=&quot;The book in question&quot;&gt;&lt;/p&gt;
 &lt;p&gt;My latest book obsession is Daniel Kahneman&#39;s Thinking, Fast and Slow. I was thinking about judgement and intuition when I picked it up, and I was looking for a framework to navigate my thinking. The book details out &lt;a href=&quot;https://en.wikipedia.org/wiki/Prospect_theory&quot;&gt;prospect theory&lt;/a&gt;, which is Kahneman and Amos Tversky&#39;s seminal work on decision making. Prospect theory is an alternative to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Expected_utility_hypothesis&quot;&gt;expected utility theory&lt;/a&gt;, basis for the rational decision-making economic agent.&lt;/p&gt;
 &lt;p&gt;The basis of prospect theory lies in cognitive biases that are detailed out in the book. Kahneman proposes there are two modes of thinking: System 1, which is fast and instinctive, and System 2, which is more thoughtful and analytical. Biases happen inside System 1, and a lazy System 2 fails to correct them.&lt;/p&gt;
@@ -145,9 +145,9 @@
 	
 	<entry>
 		<title>Idealism, anarchism and decentralization</title>
-		<link href="https://arjun.is/posts/2018-04-21-dispossessed/"/>
+		<link href="https://arjun.is/posts/2018/dispossessed/"/>
 		<updated>2018-04-12T00:00:00-00:00</updated>
-		<id>https://arjun.is/posts/2018-04-21-dispossessed/</id>
+		<id>https://arjun.is/posts/2018/dispossessed/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://arjun.is/img/dispossessed.jpg&quot; alt=&quot;The Dispossessed by Ursula Le Guin&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Anarres is a planet in Ursula Le Guin&#39;s The Dispossessed — a world built on anarchism: the rejection of authority and hierarchies. 150 years in, it resembles little like what was imagined. While newer generations can recite the founding principles, bureaucracy has taken over for all practical purposes. Says Bedap, a doubter in the book:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -174,9 +174,9 @@
 	
 	<entry>
 		<title>Lucked into Microsoft</title>
-		<link href="https://arjun.is/posts/2019-04-28-microsoft/"/>
+		<link href="https://arjun.is/posts/2019/microsoft/"/>
 		<updated>2019-04-28T00:00:00-00:00</updated>
-		<id>https://arjun.is/posts/2019-04-28-microsoft/</id>
+		<id>https://arjun.is/posts/2019/microsoft/</id>
 		<content type="html">&lt;p&gt;My 15 year old Linux fanboy self would have never believed it if he was told that one day he would work at Microsoft. Turns out that is exactly what happened. Here&#39;s how.&lt;/p&gt;
 &lt;h2 id=&quot;code-reviews-and-rubberduck&quot;&gt;Code reviews and Rubberduck &lt;a class=&quot;direct-link&quot; href=&quot;#code-reviews-and-rubberduck&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;I remember a team discussion at &lt;a href=&quot;http://hypertrack.com/&quot;&gt;HyperTrack&lt;/a&gt; on how to improve team culture and morale, and someone brought up doing better code reviews. It seemed like an odd idea at first, but it made sense and stuck with me. A healthy code review culture helps teams communicate, transfer knowledge, and every developer grows with every review.&lt;/p&gt;
@@ -206,9 +206,9 @@
 	
 	<entry>
 		<title>Lessons in podcast distribution</title>
-		<link href="https://arjun.is/posts/2019-07-16-podcasting-distribution/"/>
+		<link href="https://arjun.is/posts/2019/podcasting-distribution/"/>
 		<updated>2019-07-16T00:00:00-00:00</updated>
-		<id>https://arjun.is/posts/2019-07-16-podcasting-distribution/</id>
+		<id>https://arjun.is/posts/2019/podcasting-distribution/</id>
 		<content type="html">&lt;p&gt;A few months ago I got together with my old friend Alokik to launch a podcast: &lt;a href=&quot;https://startupgreenroom.com/&quot;&gt;the Startup Green Room&lt;/a&gt; is a place to celebrate functional expertise from operators in the Indian startup ecosystem. We have close to &lt;a href=&quot;https://startupgreenroom.com/episodes&quot;&gt;10 episodes&lt;/a&gt; now, and I&#39;m keen to share our learnings so far.&lt;/p&gt;
 &lt;p&gt;Anecdotally, I&#39;ve seen podcast listening grow fast over the last year: podcast related chatter on Twitter has increased, friends ask me for and share recommendations. At the same time, India-centric content isn&#39;t common. We are betting that the podcast tailwinds are strong enough for us to focus on content, and let the growth in podcast listening provide for distribution.&lt;/p&gt;
 &lt;p&gt;Or to put it differently, we assume that there is a critical and growing mass of podcast listeners in India, who have figured out how to fit podcasts into their lives (generally, one of commute or gym). Many of these listeners work in, or are interested in Indian startups, and we want to create relevant content for them.&lt;/p&gt;
