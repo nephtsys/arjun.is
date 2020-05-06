@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Arjun Attam</title>
-	<subtitle>Description</subtitle>
+	<subtitle>Arjun Attam&#39;s blog</subtitle>
 	
 	<link href="https://arjun.is/feed/feed.xml" rel="self"/>
 	<link href="https://arjun.is/"/>
